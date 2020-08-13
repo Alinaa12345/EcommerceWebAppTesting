@@ -68,9 +68,19 @@ To demonstrate planning for tests, testing and reporting defects as a basic skil
 ![TS2](https://user-images.githubusercontent.com/61905308/90178180-d6bbcf00-ddab-11ea-9d05-f383f1f94996.png)
 
 **TestRail - Test Cases:**
+
 ![TC](https://user-images.githubusercontent.com/61905308/90177774-52694c00-ddab-11ea-9ccc-9e0e40771423.png)
 
 ![TCC](https://user-images.githubusercontent.com/61905308/90177880-762c9200-ddab-11ea-8308-5083b1431e00.png)
 
+![TestRail](https://user-images.githubusercontent.com/61905308/90178598-695c6e00-ddac-11ea-9769-cf2fc3e9d4f4.png)
 
+**Jira - Backlog of found defects:**
 
+![backlogbug](https://user-images.githubusercontent.com/61905308/90178906-f4d5ff00-ddac-11ea-8d9b-b4fa971cae2a.png)
+
+![bugreport](https://user-images.githubusercontent.com/61905308/90178750-a88abf00-ddac-11ea-81b0-191abd1cd1c7.png)
+
+**Eclipse IDE:**
+
+![eclipse](https://user-images.githubusercontent.com/61905308/90179631-079d0380-ddae-11ea-9907-df9fae6688a2.png)
