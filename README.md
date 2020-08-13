@@ -1,6 +1,10 @@
  **Ecommerce Web App acceptance Testing**
 =======================================================
 
+### **Contents:**
+- Methods
+- Tools
+- Screenshots
 
 ### **Purpose:**
 
@@ -10,7 +14,7 @@ To demonstrate planning for tests, testing and reporting defects as a basic skil
  
 
 
-### **Method:**
+### **Methods:**
 
 1. Create a custom Test Plan for general approach. 
     own document (see file and screenshot below).
@@ -45,5 +49,4 @@ To demonstrate planning for tests, testing and reporting defects as a basic skil
 
 
 ### **Screenshots:**
- **Browser window with web app product (https://orangehrm-demo-6x.orangehrmlive.com/):**
- ![Orange](C:\Users\abc\Desktop\orange\Projekt\orange.png)
+![Browser window with web app product:](https://user-images.githubusercontent.com/61905308/90175774-39ab6700-dda8-11ea-9095-4ecd01c6d5e9.png)
