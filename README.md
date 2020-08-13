@@ -49,4 +49,28 @@ To demonstrate planning for tests, testing and reporting defects as a basic skil
 
 
 ### **Screenshots:**
+**Browser window with web app product:**
+
 ![Browser window with web app product:](https://user-images.githubusercontent.com/61905308/90175774-39ab6700-dda8-11ea-9095-4ecd01c6d5e9.png)
+
+**Custom document - Test Plan:**
+
+![TestPlan](https://user-images.githubusercontent.com/61905308/90176349-159c5580-dda9-11ea-9de6-4b3173ef808c.png)
+
+**Confluence:**
+
+![confluence](https://user-images.githubusercontent.com/61905308/90177495-edadf180-ddaa-11ea-9025-2e8b6f6e747f.png)
+
+**Functional Testing Scenarios:**
+
+![TS](https://user-images.githubusercontent.com/61905308/90178102-b724a680-ddab-11ea-9509-987ae5ee89bd.png)
+
+![TS2](https://user-images.githubusercontent.com/61905308/90178180-d6bbcf00-ddab-11ea-9d05-f383f1f94996.png)
+
+**TestRail - Test Cases:**
+![TC](https://user-images.githubusercontent.com/61905308/90177774-52694c00-ddab-11ea-9ccc-9e0e40771423.png)
+
+![TCC](https://user-images.githubusercontent.com/61905308/90177880-762c9200-ddab-11ea-8308-5083b1431e00.png)
+
+
+
