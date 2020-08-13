@@ -82,5 +82,4 @@ To demonstrate planning for tests, testing and reporting defects as a basic skil
 ![bugreport](https://user-images.githubusercontent.com/61905308/90178750-a88abf00-ddac-11ea-81b0-191abd1cd1c7.png)
 
 **Eclipse IDE:**
-
 ![eclipse](https://user-images.githubusercontent.com/61905308/90179631-079d0380-ddae-11ea-9907-df9fae6688a2.png)
